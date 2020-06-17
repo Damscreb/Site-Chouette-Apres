@@ -1,8 +1,20 @@
+/* Tests pour les liens partenaires */
 .flex {
     display : flex;
+}
+
+.space-around__row {
+    justify-content: space-around;
+    flex-direction: row;
 }
 
 .space-between__row {
     justify-content: space-between;
     flex-direction: row;
+}
+
+/* Le h2 du bloc 5 ne subira pas l'effet papier : augmentation de la lisibilité */
+.z-index {
+    position: relative;
+    z-index: 1;
 }
