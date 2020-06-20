@@ -13,8 +13,8 @@
     flex-direction: row;
 }
 
-/* Le h2 du bloc 5 ne subira pas l'effet papier : augmentation de la lisibilité */
-.z-index {
-    position: relative;
-    z-index: 1;
+/* Pour les boutons contact */
+
+.grey {
+    color: #333333!important;
 }
