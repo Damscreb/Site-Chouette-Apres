@@ -1,16 +1,17 @@
-/* Tests pour les liens partenaires */
+/* Modifs pour les liens partenaires */
 .flex {
     display : flex;
-}
-
-.space-around__row {
-    justify-content: space-around;
-    flex-direction: row;
+    width : auto;
 }
 
 .space-between__row {
     justify-content: space-between;
     flex-direction: row;
+}
+
+.width-100 {
+    width : 100%;
+    margin-top : 20px;
 }
 
 /* Pour les boutons contact */
