@@ -2,6 +2,7 @@
 .flex {
     display : flex;
     width : auto;
+    list-style-type: none;
 }
 
 .space-between__row {
