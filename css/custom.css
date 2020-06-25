@@ -15,8 +15,14 @@
     margin-top : 20px;
 }
 
-/* Pour les boutons contact */
+/* Pour les boutons contact, réseaux sociaux,... */
 
 .grey {
     color: #333333!important;
+}
+
+/* Pour les liens partenaires */
+
+.black {
+    color: #000000!important;
 }
